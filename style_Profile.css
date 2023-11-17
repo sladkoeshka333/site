@@ -1,0 +1,212 @@
+.parent-div {
+  width: 1440px;
+  height: 2449px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.FRAME-2141-7316 {
+  transform: rotate(0deg);
+  position: relative;
+  width: 1440px;
+  height: 2449px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 1);
+}
+.RECTANGLE-2141-7317 {
+  position: absolute;
+  left: 65px;
+  top: 222px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(246, 246, 246, 1);
+
+  border-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+  width: 558px;
+  height: 520px;
+  opacity: 1;
+}
+.GROUP-2141-7329 {
+  position: absolute;
+  width: 248px;
+  height: 22px;
+  left: 490px;
+  top: 2300px;
+  transform: rotate(0deg);
+  z-index: 4;
+  opacity: 1;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.GROUP-2141-7331 {
+  position: absolute;
+  width: 248px;
+  height: 22px;
+  left: 490px;
+  top: 2300px;
+  transform: rotate(0deg);
+  z-index: 4;
+  opacity: 1;
+}
+.FRAME-2141-7336 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 248px;
+  height: 22px;
+  left: 490px;
+  top: 2300px;
+  opacity: 1;
+}
+.GROUP-2141-7431 {
+  position: absolute;
+  width: 417px;
+  height: 60px;
+  left: 735px;
+  top: 702px;
+  transform: rotate(0deg);
+  z-index: 10;
+  opacity: 1;
+}
+.RECTANGLE-2141-7432 {
+  position: absolute;
+  left: 735px;
+  top: 702px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+
+  border: 1px solid rgba(0, 0, 0, 1);
+
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  width: 415px;
+  height: 58px;
+  opacity: 1;
+}
+.RECTANGLE-2141-7439 {
+  position: absolute;
+  left: 65px;
+  top: 1035px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(0, 0, 0, 0.5);
+
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  width: 305px;
+  height: 214px;
+  opacity: 1;
+}
+.RECTANGLE-2141-7440 {
+  position: absolute;
+  left: 1071px;
+  top: 1035px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(0, 0, 0, 0.5);
+
+  border-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  width: 304px;
+  height: 213px;
+  opacity: 1;
+}
+.GROUP-2141-7441 {
+  position: absolute;
+  width: 414px;
+  height: 80.00000762939453px;
+  left: 513px;
+  top: 1374px;
+  transform: rotate(0deg);
+  z-index: 18;
+  opacity: 1;
+}
+.GROUP-2141-7443 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 847px;
+  top: 1374.0000069938224px;
+  transform: rotate(0deg);
+  z-index: 19;
+  opacity: 1;
+}
+.ELLIPSE-2141-7444 {
+  position: absolute;
+  left: 847.0000009438788px;
+  top: 1374.0000079377012px;
+  transform: rotate(-89.99999864799312deg);
+  transform-origin: center !important;
+
+  border: 2px solid rgba(0, 0, 0, 1);
+
+  border-radius: 50%;
+
+  width: 76px;
+  height: 76px;
+  opacity: 1;
+  clip-path: url(#id-Ellipse23-svgpath);
+}
+.GROUP-2141-7446 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 513.0000034969111px;
+  top: 1374.0000041324834px;
+  transform: rotate(-179.99999499104388deg);
+  z-index: 20;
+  opacity: 1;
+}
+.ELLIPSE-2141-7447 {
+  position: absolute;
+  left: 513.0000025530323px;
+  top: 1374.0000031886045px;
+  transform: rotate(90.00000636096301deg);
+  transform-origin: center !important;
+
+  border: 2px solid rgba(0, 0, 0, 1);
+
+  border-radius: 50%;
+
+  width: 76px;
+  height: 76px;
+  opacity: 1;
+  clip-path: url(#id-Ellipse23-svgpath);
+}
+.RECTANGLE-2141-7449 {
+  position: absolute;
+  left: 444px;
+  top: 950px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(246, 246, 246, 1);
+
+  border-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+  width: 553px;
+  height: 384px;
+  opacity: 1;
+}
